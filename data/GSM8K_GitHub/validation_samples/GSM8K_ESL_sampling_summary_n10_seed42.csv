@@ -1,0 +1,2 @@
+﻿Benchmark,Available_Fully_Matched_Base_Prompts,Selected_Base_Prompts,ESL_Language_Conditions,Samples_Per_Language,Final_Annotation_Rows,Random_Seed,Sampling_Design
+GSM8K,1013,10,8,10,80,42,Balanced matched random sampling across ESL language conditions
